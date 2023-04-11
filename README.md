@@ -3,7 +3,9 @@
 k-Nearest neighbours classifier is a non-parametric classification method which inputs are the k closest training
 examples of a data set, while the output is a class membership. The goal of this laboratory is to implement this
 classifier in MATLAB on the specified data sets.
-3.1.1. K-Nearest neighbour classifier
+
+
+## K-Nearest neighbour classifier
 The KNN algorithm is a simple and easy to implement supervised machine learning algorithm. It’s non parametric so it makes no assumption about the probability distribution building a discrimination rule directly from the
 data.
 To implement this algorithm is needed a:
